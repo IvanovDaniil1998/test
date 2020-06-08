@@ -1,0 +1,14 @@
+название, издательство, год, число страниц, наличие фотографий, наличие карты, переплет, формат, автор, количество, артикул
+Nice city London is the capital	Good Vis	2017	25	есть	есть	болты	150x65	Иванова	29	12076
+
+New York - Large exscursion	Large Excurs	2020	34	есть	нет	проволка	60х90	Некрасов	150	18723
+Moskow City Centre excursion	П-2	2019	87	нет	нет	француз.	84х90	Бритов	3	20154
+Saint-Petersburg visiters	Good Vis	2016	65	есть	есть	клеевой	86х108	Курицын	1	19324
+Chech - Prague and Brno city	CityCentre	2019	30	нет	нет	термо	290х215	Батраев	0	54621
+Rome in sun and beauty light	Exmo	2020	123	есть	есть	болты	110х190	Жаров	2	34097
+India and her huge history	ACT	2018	64	нет	нет	клеевой	205х264	Минский	241	12097
+
+Excursions in Brightin 		Good Vis	2015	52	есть	есть	клеевой	172х218	Недогор	14	42683
+Paris - natural beauty  	Prospect	2018	10	есть	нет	проволка	70х100	Тансико	1	24013
+All city centers for kids	CityCentre	2016	123	нет	нет	термо	60х90	Инскаев	2	53025
+From Bernin with love   	Prospect	2001	159	нет	есть	термо	80х100	Мардан	65	23154
